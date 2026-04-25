@@ -1,3 +1,3 @@
 ## _MystanCodeProject_
-Hello professors
-welcome
+Hello professors  
+welcome to my stanCode Project
