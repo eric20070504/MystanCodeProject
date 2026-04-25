@@ -19,4 +19,4 @@ This repository holds my programming projects during the period of stanCode SC00
 * [天氣數據統計](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/weather_master.py)
   * python semantics & syntax  -  int processing
 * [字串分數](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/string_score.py)
-  * python semantics & syntax-String
+  * python semantics & syntax  -  String
