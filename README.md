@@ -6,15 +6,17 @@ This repository holds my programming projects during the period of stanCode SC00
 ## Project Source Codes:  
 * [Caesar password](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/caesar.py)
   * python semantics & syntax
-* [Caesar password](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/caesar.py)
+* [Complement](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/complement.py))
   * python semantics & syntax
-* [Caesar password](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/caesar.py)
+* [Hailstone](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/hailstone.py)
   * python semantics & syntax
-* [Caesar password](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/caesar.py)
+* [Prime Number](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/prime_checker.py)
   * python semantics & syntax
-* [Caesar password](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/caesar.py)
+* [Quadratic Solver](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/quadratic_solver.py)
   * python semantics & syntax
-* [Caesar password](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/caesar.py)
+* [Rocket](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/rocket.py)
   * python semantics & syntax
-* [Caesar password](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/caesar.py)
+* [Weather Master](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/weather_master.py)
+  * python semantics & syntax
+* [String Score](https://github.com/eric20070504/MystanCodeProject/blob/main/stanCode/string_score.py)
   * python semantics & syntax
