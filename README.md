@@ -1,3 +1,5 @@
 ## _MystanCodeProject_
 Hello professors  
-welcome to my stanCode Project
+Welcome to my stanCode Project.  
+This repository holds my programming projects during the period of stanCode SC001 course.  
+
